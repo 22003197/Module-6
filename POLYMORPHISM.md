@@ -1,5 +1,5 @@
 # Exp.No:26  
-## Method Overriding
+# Polymorphism 
 
 ### AIM  
 
